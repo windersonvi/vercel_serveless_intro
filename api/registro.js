@@ -4,7 +4,7 @@ let joi = require("joi")
 let { StatusCodes: SC } = require("http-status-codes")
 //let axios = require("axios")
 //FILES
-let Sentry = require("@sen/sentry")
+//let Sentry = require("@sen/sentry")
 
 
 module.exports = async function handler(req, res) {
