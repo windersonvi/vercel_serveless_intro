@@ -4,7 +4,7 @@ let { StatusCodes: SC } = require("http-status-codes")
 //let axios = require("axios")
 //FILES
 //let mock = require("@mock/mock")
-let prueba = require("@ax/axios_remoto")
+//let prueba = require("@ax/axios_remoto")
 //let Sentry = require("@sen/sentry")
 
 
