@@ -4,8 +4,8 @@ let { StatusCodes: SC } = require("http-status-codes")
 //let axios = require("axios")
 //FILES
 //let mock = require("@mock/mock")
-//let prueba = require("@ax/axios_remoto")
-//let Sentry = require("@sen/sentry")
+let prueba = require("../mock/remoto/axios_remoto")
+let Sentry = require("../logs/sentry")
 
 
 module.exports = async function handler(req, res) {
