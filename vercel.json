@@ -1,7 +1,6 @@
 {
     "redirects": [
-        {"source": "/cuenta/:path(.*)", "destination": "/api/contable/:path*"},
-        {"source": "/stock/:path(.*)", "destination": "/api/stock/:path*"}
+        {"source": "/cuenta/:path(.*)", "destination": "/api/contable/:path*"}
       ],
     "headers": [
       {
